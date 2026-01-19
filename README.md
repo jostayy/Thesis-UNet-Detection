@@ -50,7 +50,7 @@ Model został zweryfikowany na rzeczywistych danych eksperymentalnych.
 
 ---
 
-## 👥 Autorzy
+## Autorzy
 
 * **Autor:** Joanna Szczypkowska (Akademia Górniczo-Hutnicza)
 * **Promotor:** dr hab. inż. Ziemowit Dworakowski
