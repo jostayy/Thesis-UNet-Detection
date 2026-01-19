@@ -38,4 +38,6 @@ Należy mieć na uwadze, że ze względu na stochastyczny charakter inicjalizacj
 
 Zdarza się, że algorytm optymalizacyjny utknie w minimum lokalnym (objawia się to brakiem wzrostu wskaźnika Dice powyżej 0.00 po kilkudziesięciu epokach). W takiej sytuacji należy uruchomić skrypt ponownie. Uzyskanie zbieżności modelu tożsamej z wynikami w pracy może wymagać kilkukrotnego powtórzenia procedury startowej.
 
+Uwaga: Przed uruchomieniem skryptów preprocessingu należy stworzyć i dostosować ścieżki do danych w pliku preprocessing/config.py do własnej struktury katalogów.
+
 AUTOR: Joanna Szczypkowska
