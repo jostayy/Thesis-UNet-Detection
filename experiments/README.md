@@ -7,4 +7,4 @@ W tym katalogu znajdują się implementacje alternatywnych architektur sieci neu
 - **Attention U-Net** (`attention_unet.py`) - Rozszerzenie klasycznego U-Net o mechanizm bramek uwagi (Attention Gates), pozwalający na skupienie się modelu na istotnych cechach sygnału.
 
 ## Cel
-Kody te posłużyły do wygenerowania wyników porównawczych przedstawionych w Rozdziale 4 pracy dyplomowej ("Analiza porównawcza skuteczności modeli").
+Kody te posłużyły do wygenerowania wyników porównawczych przedstawionych w pracy dyplomowej.
