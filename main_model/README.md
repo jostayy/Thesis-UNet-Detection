@@ -8,12 +8,6 @@ Niniejszy projekt zawiera implementację głębokiej sieci neuronowej typu **U-N
 ## STRUKTURA KATALOGÓW I PLIKÓW
 Paczka zawiera następujące elementy:
 
-* **`ML_Dataset_Split_5_FEATURES_FINAL_test/`**
-    Katalog zawierający przygotowane dane wejściowe, podzielone na podzbiory: treningowy (*train*), walidacyjny (*val*) oraz testowy (*test*). Pliki są zapisane w formacie `.npy`.
-
-* **`Eksperyment_UNet_Final/`**
-    Katalog zawierający wytrenowany i zweryfikowany model (plik: `unet_best_model.h5`), jako jeden z najlepszych otrzymanych modeli w procesie trenowania.
-
 * **`demo.py`**
     Skrypt służący do weryfikacji działania gotowego modelu. Wczytuje wagi z katalogu `Eksperyment_UNet_Final` i generuje predykcje dla zbioru testowego.
 
@@ -30,3 +24,4 @@ tensorflow
 numpy
 matplotlib
 os
+
